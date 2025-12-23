@@ -1,0 +1,10 @@
+E:\repos\TopShelfSampleService\TopShelfSampleService\bin\Debug\TopShelfSampleService.exe.config
+E:\repos\TopShelfSampleService\TopShelfSampleService\bin\Debug\TopShelfSampleService.exe
+E:\repos\TopShelfSampleService\TopShelfSampleService\bin\Debug\TopShelfSampleService.pdb
+E:\repos\TopShelfSampleService\TopShelfSampleService\bin\Debug\Topshelf.dll
+E:\repos\TopShelfSampleService\TopShelfSampleService\bin\Debug\Topshelf.xml
+E:\repos\TopShelfSampleService\TopShelfSampleService\obj\Debug\TopShelfSampleService.csproj.AssemblyReference.cache
+E:\repos\TopShelfSampleService\TopShelfSampleService\obj\Debug\TopShelfSampleService.csproj.CoreCompileInputs.cache
+E:\repos\TopShelfSampleService\TopShelfSampleService\obj\Debug\TopShelf.B080E3DF.Up2Date
+E:\repos\TopShelfSampleService\TopShelfSampleService\obj\Debug\TopShelfSampleService.exe
+E:\repos\TopShelfSampleService\TopShelfSampleService\obj\Debug\TopShelfSampleService.pdb

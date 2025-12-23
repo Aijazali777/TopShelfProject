@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{66A4FB35-3BA6-41BC-B08C-0272D80BCC73}|TopShelfSampleService\\TopShelfSampleService.csproj|solutionrelative:topshelfsampleservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66A4FB35-3BA6-41BC-B08C-0272D80BCC73}|TopShelfSampleService\\TopShelfSampleService.csproj|e:\\repos\\topshelfsampleservice\\topshelfsampleservice\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{66A4FB35-3BA6-41BC-B08C-0272D80BCC73}|TopShelfSampleService\\TopShelfSampleService.csproj|E:\\repos\\TopShelfSampleService\\topshelfsampleservice\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66A4FB35-3BA6-41BC-B08C-0272D80BCC73}|TopShelfSampleService\\TopShelfSampleService.csproj|solutionrelative:topshelfsampleservice\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,8 +38,7 @@
               "RelativeToolTip": "TopShelfSampleService\\TestService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T15:55:21.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-23T15:55:21.134Z"
             },
             {
               "$type": "Document",
@@ -49,7 +48,7 @@
               "RelativeDocumentMoniker": "TopShelfSampleService\\Program.cs",
               "ToolTip": "E:\\repos\\TopShelfSampleService\\TopShelfSampleService\\Program.cs",
               "RelativeToolTip": "TopShelfSampleService\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAUwBsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-23T15:52:33.026Z",
               "EditorCaption": ""
